@@ -64,20 +64,6 @@ Whether you're capturing cinematic moments, debugging your game on multiple disp
 
 ---
 
-## 🚀 Get Started in Seconds  
-
-```bash
-# Clone the repository
-git clone https://github.com/YourGitHub/UnrealScreenshot.git
-
-# Move the plugin to your project
-mv UnrealScreenshot YourProject/Plugins/
-
-# Open Unreal Engine and enable the plugin!
-```
-
----
-
 ## 📜 License  
 
 This project **does not include a license**, meaning it is protected by default under copyright law.  
